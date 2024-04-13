@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Prose\nPulse</string>
+    <string name="developed_by_n_shantanu">Developed By\nShantanu Das</string>
+    <string name="create_your_own_story">Write. Pulse. Connect.</string>
+    <string name="loginButton">Login</string>
+    <string name="new_here">New Here?</string>
+    <string name="Register">Register</string>
+    <string name="EmailAddress">Enter Your Email </string>
+    <string name="Password">Enter Your Password</string>
+    <string name="register_name">Enter Your Name</string>
+    <string name="register_email">Enter A Email</string>
+    <string name="register_password">Enter A Password</string>
+    <string name="please_start_writing_better_git_commits">Please Start Writing Better Git Commits</string>
+    <string name="new_blogger">New Blogger</string>
+    <string name="date">Jul 19, 2023</string>
+    <string name="textview">I Love to write Blogs and I will continue writing them as it makes me feel better, lighter and gives me freedom to express my views towards daily worldy activities and personal hobbies too.</string>
+    <string name="read_more">Read More</string>
+    <string name="news_feed">News Feed</string>
+    <string name="_20">20</string>
+    <string name="UserName">TextView</string>
+    <string name="TitleText">TextView</string>
+    <string name="blogdescription">TextView</string>
+    <string name="date_picker">TextView</string>
+    <string name="BlogTitle">Enter Your Blog Title</string>
+    <string name="BlogDescription">Enter Your Blog Description</string>
+    <string name="add_blog">Add Blog</string>
+    <string name="add_new_blog_here">Add New Blog Here</string>
+    <string name="blog_title">Blog Title</string>
+    <string name="blog_description">Blog Description</string>
+    <string name="add_new_article">Add New Article</string>
+    <string name="your_articles">Your Articles</string>
+    <string name="log_out">Log Out</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="edit_your_blog_here">Edit Your Blog Here</string>
+    <string name="update_blog">Update Blog</string>
+</resources>

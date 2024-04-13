@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "407735870997",
+    "firebase_url": "https://blog-app-234c1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blog-app-234c1",
+    "storage_bucket": "blog-app-234c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407735870997:android:a27b14c316464fd0b9901c",
+        "android_client_info": {
+          "package_name": "com.example.blog_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaPlZDyMQ9AN01UMD-1Xt_5UkWTLSWA10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
