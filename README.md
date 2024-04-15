@@ -11,3 +11,25 @@
 
 # Screen 3
 ![image](https://github.com/ShantanuDas8013/ProsePulse/assets/122902909/0612494a-e415-453c-89b5-1776736ba61c)
+
+
+
+## setting up github locally
+ git config --global user.name "ShantanuDas8013"
+ git config --global user.email "shantanucool1361@gmail.com"
+
+
+  git init 
+  git add .
+  git commit -m "app is ready"
+  git remote add origin https://github.com/ShantanuDas8013/ProsePulse.git
+
+  git checkout -b main
+  git push --force origin main
+
+
+## how to push on master branch 
+  ## git push 
+  ## git push origin master
+  
+
